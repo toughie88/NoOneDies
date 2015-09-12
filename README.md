@@ -1,8 +1,0 @@
-# NoOneDies
-一个都不能死 Cocos2d-x v3.7 Game C++ 
-
-开发环境：win10 x64 vs2015
-开发语言：C++
-模仿流行手机游戏“一个都不能死”。
-
-来自www.github.com/jjyhll123
